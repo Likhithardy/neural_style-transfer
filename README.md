@@ -16,3 +16,4 @@ DESCRIPTION:In this project, I implemented a Neural Style Transfer (NST) model t
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/92909523-1f3e-40b2-8510-6ab4a61d70e7)
